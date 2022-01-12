@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xaellor a.k.a emily
-- 👀 I’m interested in  software & infosec engineering
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on OSINT reconnaissance
+- 👋 hiii i'm emily and i like sequential codes and ciphers
+- 👀 i've been working on a project called 'telescope ai' ml-sec
+- 🌱 my favorite language = ruby, python, c++, c#, java, javascript
+- 💞️ i’m looking to collaborate on any interesting projects
 
-<!--- good luck --->
+<!--- thank you for reading this --->
